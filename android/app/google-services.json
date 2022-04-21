@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094772080161",
+    "project_id": "pharmacyassistant",
+    "storage_bucket": "pharmacyassistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094772080161:android:d4784890db485b5f0d6d60",
+        "android_client_info": {
+          "package_name": "com.pharmacy_assistent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094772080161-mg5q610is232bo32e0rehm3ghql9l5ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk9gMr113FqqTijczhPMIkuM5spckOQfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094772080161-mg5q610is232bo32e0rehm3ghql9l5ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
